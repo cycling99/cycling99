@@ -1,10 +1,11 @@
 # cycling99
 
-i love cycling, i own 3 mountain bikes, i rode 67 miles non stop one time
+i create roblox utilites
 
-# What I do on GitHub
-- i make roblox scripts (not exploits), like [this one](https://github.com/cycling99/robloxgroupabuser/blob/main/mass%20ranker.py)
-- i am planning on releasing a ton more utility scripts
+# What I do for a livin
+i code python
+> [!NOTE]
+> I am still learning Python
 
 
 <!---
