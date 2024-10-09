@@ -2,12 +2,12 @@
 
 ```
 Name:  ambatron
-Currently Doing: Roblox Group Ranker
+Currently Doing: python mods
 Age: 32  
 Interests:  bus
 ```
 
-i create roblox utilites
+i love to bike
 
 <!---
 cycling99/cycling99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
