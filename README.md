@@ -2,9 +2,7 @@
 
 ```
 Name:  ambatron
-Currently Doing: python mods
-Age: 32  
-Interests:  bus
+hobbies: gooning, edging, jelqing, sipping still water
 ```
 
 i love to bike
